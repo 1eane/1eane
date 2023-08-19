@@ -1,6 +1,4 @@
-<p align="center">
-  <h3>Hello World ! 👋</h3>
-</p>
+<h1 align="center">Hello World ! 👋</h1>
 [website](https://www.google.com/) • Linkedin
 I'm a frontend developer based in France.
   • Currently working at Orange

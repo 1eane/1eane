@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Hello World ! 👋</h2>
+  <b>Hello World ! 👋</b>
 </p>
 [website](https://www.google.com/) • Linkedin
 I'm a frontend developer based in France.

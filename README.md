@@ -1,5 +1,9 @@
-<h1 align="center">Hello World ! 👋</h1>
-[website](https://www.google.com/) • Linkedin
+<h2 align="center">Hello World ! 👋</h2>
+<p align="center">
+  <a href="https://www.google.com/">website</a>
+  •
+  <a href="https://www.google.com/">Linkedin</a>
+</p>
 I'm a frontend developer based in France.
   • Currently working at Orange
   • Discover my Curriculum Vitae

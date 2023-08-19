@@ -1,5 +1,5 @@
 <h2 align="center">Hello World ! 👋</h2>
-<h3>Welcome in my Github Profile</h3>
+<b  align="center">Welcome in my Github Profile</b>
 <p align="center">
   <a href="https://www.google.com/">website</a>
   •

@@ -10,11 +10,8 @@ I am a <b>frontend developer</b> based in <b>France</b>. I enjoy creating visual
 <br>
 <br>
 <ul>
-  <li>point 1</li>
-  <li>point 2</li>
-  <li>point 3</li>
+  <li> 💼 Currently working at <a href="https://www.orange.fr/portail?gclid=Cj0KCQjw0IGnBhDUARIsAMwFDLlNUIlmst72E2c-iO6AZEBXaSpP-ZcAAfn8JfuwUFF5TeDVI3t9froaAm4aEALw_wcB&gclsrc=aw.ds">Orange</a></li>
+  <li> 🏛 Study in informatics and multimedia at ENSSAT in Lannion</li>
+  <li> ⚡ Discover my <a href="https://www.google.com/">Curriculum Vitae</a></li>
+  <li> 💬 Contact me drs.leane@gmail.com</li>
 </ul>
-  • 💼 Currently working at <a href="https://www.orange.fr/portail?gclid=Cj0KCQjw0IGnBhDUARIsAMwFDLlNUIlmst72E2c-iO6AZEBXaSpP-ZcAAfn8JfuwUFF5TeDVI3t9froaAm4aEALw_wcB&gclsrc=aw.ds">Orange</a>
-  • 🏛 I study computer science at the "grande école" of engineer, ENSSAT in Lannion
-  • ⚡ Discover my <a href="https://www.google.com/">Curriculum Vitae</a>
-  • 💬 Contact me drs.leane@gmail.com

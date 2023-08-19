@@ -1,5 +1,5 @@
-### [center] Hello World ! 👋 [/center]
-[center] [website](https://www.google.com/) • Linkedin [/center]
+### :Hello World ! 👋
+[website](https://www.google.com/) • Linkedin
 I'm a frontend developer based in France.
   • Currently working at Orange
   • Discover my Curriculum Vitae

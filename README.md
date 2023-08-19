@@ -1,6 +1,11 @@
-### Hi there 👋
+### [center] Hello World ! 👋 [/center]
+[center] [url=https://www.google.com/]website[/url] • Linkedin [/center]
+I'm a frontend developer based in France.
+  • Currently working at Orange
+  • Discover my Curriculum Vitae
+  • Contact me drs.leane@gmail.com
 
- ! [Image des contributeurs GitHub] https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name
+
 <!--
 **1eane/1eane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,13 +1,12 @@
-### :Hello World ! 👋
+<p align="center">
+  ### Hello World ! 👋
+</p>
 [website](https://www.google.com/) • Linkedin
 I'm a frontend developer based in France.
   • Currently working at Orange
   • Discover my Curriculum Vitae
   • Contact me drs.leane@gmail.com
 
-<p align="center">
-  // test
-</p>
 
 
 <!--
